@@ -46,7 +46,7 @@ ejercicio 1
 
 
 en este ejercicio como el usuario decidio digitar el numero 4 que equivale a la opcion numero 4.
-primeramente hice un for que dijera que del 1...30 hiciera un recorrido Y que cada vez que lo haga coja y multiplique i por i y como i va a tomar el valor en el que esta, ejemplo si el contador esta en 15 se va a almacenar en i asi que cada vez que haga el ciclo i se va a multiplicar por ella misma ejemplo si i vale 2 y se va a multiplicar por ella entonces seria el total de 4 y basicamente esa es la operacion para poder saber el cuadrado de cada numero que quedaria asi
+primeramente hice un for que dijera que del 1...30 hiciera un recorrido y que cada vez que lo haga coja y multiplique (i) por (i) y como (i) va a tomar el valor en el que esta, ejemplo si el contador esta en 15 se va a almacenar en (i) asi que cada vez que haga el ciclo (i) se va a multiplicar por ella misma ejemplo si (i) vale 2 y se va a multiplicar por ella entonces seria el total de 4 y basicamente esa es la operacion para poder saber el cuadrado de cada numero que quedaria asi
 
 
 Vista:
