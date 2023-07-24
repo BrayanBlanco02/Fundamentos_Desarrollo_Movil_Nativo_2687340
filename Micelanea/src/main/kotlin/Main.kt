@@ -157,7 +157,7 @@ fun operators() {
             val noteOne = readln().toInt()
             print("Digite La Nota Numero 2: ")
             val noteTwo = readln().toInt()
-            print("Digite La Nota Numero 3")
+            print("Digite La Nota Numero 3: ")
             val noteThree = readln().toInt()
             val result = (noteOne + noteTwo + noteThree)/3
             println("El Promedio De las 3 Notas Es: $result")
